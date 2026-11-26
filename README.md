@@ -383,7 +383,7 @@ AI-generated suggestions were reviewed and tested during development.
 **Project:** Ticket Triage Assistant  
 **Category:** AI / Customer Support Automation  
 **Purpose:** Feasibility prototype for intelligent ticket management  
-**Developer:** [Your Name]
+**Developer:** AYUSH PATIL (AI Engineer)
 
 ---
 
